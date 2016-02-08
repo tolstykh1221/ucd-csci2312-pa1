@@ -1,5 +1,6 @@
 // A 3-dimensional point class!
 // Coordinates are double-precision floating point.
+#include "Point.cpp"
 
 #ifndef __POINT_H
 #define __POINT_H
