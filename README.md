@@ -1,3 +1,10 @@
+# Edit - 'Description of program'
+
+This program consists of a class that represents an x/y/z coordinate. There is a constructor that takes three doubles and assigns them to x,y, and z respectivly. Besides the geters and setters there is a distanceTo member function that returns the distance from the calling point to another piont. Finaly there is a function that calculates the area when it is passed three points by reference that is based on Heron's formula.
+
+## The tools used for this assignment were CLion and Cygwin.
+
+
 ## CSCI 2312: Programming Assignment 1
 
 _working with objects_
