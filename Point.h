@@ -1,6 +1,5 @@
 // A 3-dimensional point class!
 // Coordinates are double-precision floating point.
-#include "Point.cpp"
 
 #ifndef __POINT_H
 #define __POINT_H
@@ -26,7 +25,7 @@ public:
     double getZ() const;
     
     // member function that finds the distance from calling point to another point
-    double Point::distanceTo(const Point &otherP) const
+    double distanceTo(const Point &otherP) const;
     
 };
 
